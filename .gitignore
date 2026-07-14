@@ -1,0 +1,17 @@
+# Personal trading journals - private, large, not needed in the repo
+resource/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs and local scratch
+*.log
+
+# macOS
+.DS_Store
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
