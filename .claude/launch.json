@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kokoro-tts-panel",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/mdhelaluddin/Documents/Claude Projects/Kokoro TTS Extension/serve.mjs", "8933"],
+      "port": 8933
+    }
+  ]
+}
